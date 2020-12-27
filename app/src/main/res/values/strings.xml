@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">俄罗斯方块</string>
+    <string name="high_score_default">最高分: 0</string>
+    <string name="new_game">新游戏</string>
+    <string name="reset_score">重新计分</string>
+    <string name="exit">退出</string>
+    <string name="high_score">最高分</string>
+    <string name="current_score">当前分数</string>
+    <string name="btn_restart">重新开始</string>
+
+</resources>
